@@ -1,0 +1,13 @@
+.filter-container{
+    display: flex;
+    padding: 10px 20px;
+    background-color: lightcyan;
+    justify-content: center;
+}
+input[type=radio]{
+    margin-left: 10px;
+}
+.txt-size{
+    font-weight: bold;
+    font-size: 18px;
+}

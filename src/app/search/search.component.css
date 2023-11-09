@@ -1,0 +1,17 @@
+.search-container{
+    display: flex;
+    margin: 0px 0px;
+    padding: 10px;
+    background-color: lightcyan;
+    justify-content: center;
+}
+input[type=text]{
+    width: 240px;
+    height: 30px;
+    padding: 15px;
+    border: none;
+    margin-left: 10px;
+}
+.txt{
+    font-weight: bold;
+}
